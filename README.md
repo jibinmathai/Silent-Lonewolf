@@ -1,59 +1,62 @@
 
 # Hi, I'm Jibin Mathai 👋
 
-### Network & Security Engineer | Cybersecurity Enthusiast
+### Network & Security Engineer | Cybersecurity Professional
 
 📍 Ontario, Canada
 
 🎓 Master's in Cybersecurity and Operations Management
 at Humber Polytechnic (In Progress)
 
-## About Me
+## 👨‍💻 About Me
 
 IT professional with 7+ years of experience in
-network infrastructure, system administration,
+network engineering, infrastructure administration,
 and cybersecurity.
 
-Currently expanding my expertise in Cloud Security,
+Currently expanding my skills in Cloud Security,
 Security Automation, and DevSecOps.
 
-## Technical Skills
+## 🛠 Technical Skills
 
-- Networking: Cisco, VLANs, OSPF, VPN, TCP/IP
-- Security: Fortinet, Sophos, OPNsense, Suricata
-- Systems: Windows Server, Linux, Active Directory
-- Cloud: AWS, Azure, Oracle Cloud
-- Security Tools: Wazuh, OpenSCAP, Syft, Grype
-- Virtualization: VMware, Docker
-- Frameworks: NIST CSF, ISO 27001, MITRE ATT&CK
+**Networking & Security**
+Cisco, VLANs, OSPF, VPN, Fortinet, Sophos, OPNsense
 
-## Certifications
+**Systems & Infrastructure**
+Windows Server, Active Directory, Linux, VMware
+
+**Cloud Platforms**
+AWS, Microsoft Azure, Oracle Cloud Infrastructure
+
+**Security Tools**
+Suricata, Wazuh, OpenSCAP, Syft, Grype
+
+**Frameworks**
+NIST CSF 2.0, ISO 27001, MITRE ATT&CK
+
+## 🏅 Certifications
 
 - Cisco Certified Network Associate (CCNA)
 - Red Hat Certified System Administrator (RHCSA)
 
-## Current Learning Goals
+## 🚀 Portfolio Projects
+
+- OPNsense Firewall and Network Segmentation
+- Enterprise Network Security Architecture
+- Wazuh SIEM and Centralized Monitoring
+- Vulnerability Assessment and SBOM
+- ISO 27001 Security Governance Lab
+
+Project documentation will be added progressively.
+
+## 📚 Currently Learning
 
 - Git and GitHub
 - Python and PowerShell Automation
-- CI/CD with GitHub Actions
-- Infrastructure as Code
+- Docker and Container Security
+- GitHub Actions and CI/CD
 - Cloud Security and DevSecOps
 
-## Featured Projects
-
-- OPNsense Firewall Security Lab
-- Enterprise Network Architecture
-- Wazuh SIEM Monitoring
-- Vulnerability Assessment and SBOM
-- DevSecOps Security Pipeline
-
-## Connect
+## 🤝 Connect With Me
 
 LinkedIn: www.linkedin.com/in/jibin-mathai-527244151
-
-
-<!---
-Silent-Lonewolf/Silent-Lonewolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
